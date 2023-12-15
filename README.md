@@ -15,6 +15,7 @@ nltk.tokenize: Used for word tokenization.<br />
 nltk.stem: Utilized WordNetLemmatizer for word lemmatization.
 
 **Project Workflow:**
+
 The user inputs text into the Tkinter text box. <br />
 The input is preprocessed, including converting to lowercase, removing punctuation, and tokenizing the words.<br />
 Stop words (common words like "the," "is," etc.) are removed from the tokenized words.<br />
